@@ -1,16 +1,16 @@
 Package: melfeatstest
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Extract melodic features via Cambridge's Centre for Music and Science feature extraction pipeline.
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
-      email = "jane@example.com",
+      "Seb", "Silas",
+      email = "sebsilas@gmail.com",
       role = c("aut", "cre")
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
+Description: Extract melodic features via Cambridge's Centre for Music and Science feature extraction pipeline.
+    More info coming soon.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
